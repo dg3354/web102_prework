@@ -29,8 +29,7 @@ GIF created with Kap
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+No challenges. The explanation was super clear. Thank you!
 
 ## License
 
